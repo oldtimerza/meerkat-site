@@ -50,6 +50,19 @@ a:hover {
   color: black;
 }
 
+.example-image {
+  padding: 50px;
+}
+
+.github {
+  background-color: #73c5ff;
+  color: white;
+}
+
+.github-text {
+  margin-bottom: 25px;
+}
+
 body {
   display: -ms-flexbox;
   display: -webkit-box;
